@@ -13,6 +13,8 @@ Bitcoin cash
 qqpeyudyuv2re9j8wrz70na96m2xgmwdlu53hs96pp
 https://explorer.bitcoin.com/bch/address/bitcoincash:qqpeyudyuv2re9j8wrz70na96m2xgmwdlu53hs96pp
 
+Dogecoin DOGE
+D7LfsyyfBjhBXM3rUKuWnERzgpLU9aX1wj
 
 Yearn.finance
 0xA4b9F1ED3C4aE8b50B993A053275f8f8606b9066
