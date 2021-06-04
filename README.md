@@ -1,5 +1,9 @@
 # cryptocurrency
-For dead bitcoin and other addressses to burn crypto
+For dead bitcoin and other addressses to burn / bury crypto.
+
+"Burning" a coin, in terms of cryptocurrency, refers to sending an otherwise usable token (or fraction thereof) to an unusable account. The act of burning effectively removes tokens from the available supply, increasing its relative scarcity.
+
+This a way of managing inflation and boosting up stock market prices by reducing the number of coins in circulation for each currency. Thus making it more rare and scarce. Hence more valuable.
 
 Bitcoin
 3F8XBztrdfg42HtsjT5z9TFG9jcunG48YN
