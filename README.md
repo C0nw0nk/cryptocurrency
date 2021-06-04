@@ -8,3 +8,13 @@ https://explorer.bitcoin.com/btc/address/3F8XBztrdfg42HtsjT5z9TFG9jcunG48YN
 Bitcoin cash
 qqpeyudyuv2re9j8wrz70na96m2xgmwdlu53hs96pp
 https://explorer.bitcoin.com/bch/address/bitcoincash:qqpeyudyuv2re9j8wrz70na96m2xgmwdlu53hs96pp
+
+
+Yearn.finance
+0xA4b9F1ED3C4aE8b50B993A053275f8f8606b9066
+
+Skale
+0xf56B91Fbc6e1d005c68091F10d118641D3472d8a
+
+Polygon Matic
+0x031dbF11c99f1C8FAffA2C08B759874213257499
